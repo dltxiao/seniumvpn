@@ -1,0 +1,73 @@
+1516607235493	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1516607235502	geckodriver	INFO	Listening on 127.0.0.1:49598
+1516607381508	geckodriver	INFO	geckodriver 0.19.1
+1516607381524	geckodriver	INFO	Listening on 127.0.0.1:50106
+1516607384558	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zhsecway\\AppData\\Local\\Temp\\rust_mozprofile.36mco3AIoklZ"
+1516607385335	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\zhsecway\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhsecway\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516607386808	Marionette	INFO	Listening on port 50118
+1516607387732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516607387787	Marionette	DEBUG	Register listener.js for window 4294967297
+1516607387810	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516607389392	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516607389392	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516607391676	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1516607399872	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1516607400120	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516607400464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 12352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhsecway\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhsecway\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\zhsecway\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516608025497	geckodriver	INFO	geckodriver 0.19.1
+1516608025513	geckodriver	INFO	Listening on 127.0.0.1:51059
+1516608028545	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\zhsecway\\AppData\\Local\\Temp\\rust_mozprofile.m573W6JSvVfO"
+1516608029321	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\zhsecway\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhsecway\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516608030750	Marionette	INFO	Listening on port 51067
+1516608031750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516608031808	Marionette	DEBUG	Register listener.js for window 4294967297
+1516608033901	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516608036839	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516608036839	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\zhsecway\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516608040166	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516608041616	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1516608041944	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=tes&json=1&p=3&sid=25641_1460_21102_20928&req=2&csor=3&pwd=te&cb=jQuery110209502144002896508_1516608038874&_=1516608038877, line 1: TypeError: jQuery110209502144002896508_1516608038874 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=te&json=1&p=3&sid=25641_1460_21102_20928&req=2&csor=2&pwd=t&cb=jQuery110209502144002896508_1516608038874&_=1516608038876, line 1: TypeError: jQuery110209502144002896508_1516608038874 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=test&json=1&p=3&sid=25641_1460_21102_20928&req=2&csor=4&pwd=tes&cb=jQuery110209502144002896508_1516608038874&_=1516608038878, line 1: TypeError: jQuery110209502144002896508_1516608038874 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=t&json=1&p=3&sid=25641_1460_21102_20928&req=2&csor=1&cb=jQuery110209502144002896508_1516608038874&_=1516608038875, line 1: TypeError: jQuery110209502144002896508_1516608038874 is not a function
+1516608044148	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1516608044153	Marionette	DEBUG	Received DOM event "popstate" for "https://www.baidu.com/"
+1516608046166	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1516608046656	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1516608046658	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1516608047360	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=test&rsv_pq=d6f5b54400002fa0&rsv_t=8b2ex3%2F8N7W66tX9M5n80mqqId2ru5rLLAUWJAnnFH2BLwTPmeFAtnUyrD0&rqlang=cn&rsv_enter=0&rsv_sug3=4&inputT=91&rsv_sug4=91"
+1516608082095	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=test&rsv_pq=d6f5b54400002fa0&rsv_t=8b2ex3%2F8N7W66tX9M5n80mqqId2ru5rLLAUWJAnnFH2BLwTPmeFAtnUyrD0&rqlang=cn&rsv_enter=0&rsv_sug3=4&inputT=91&rsv_sug4=91"
+1516608082104	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=test&rsv_pq=d6f5b54400002fa0&rsv_t=8b2ex3%2F8N7W66tX9M5n80mqqId2ru5rLLAUWJAnnFH2BLwTPmeFAtnUyrD0&rqlang=cn&rsv_enter=0&rsv_sug3=4&inputT=91&rsv_sug4=91"
+1516608083364	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=test&rsv_pq=d6f5b54400002fa0&rsv_t=8b2ex3%2F8N7W66tX9M5n80mqqId2ru5rLLAUWJAnnFH2BLwTPmeFAtnUyrD0&rqlang=cn&rsv_enter=0&rsv_sug3=4&inputT=91&rsv_sug4=91"
+1516608083365	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=test&rsv_pq=d6f5b54400002fa0&rsv_t=8b2ex3%2F8N7W66tX9M5n80mqqId2ru5rLLAUWJAnnFH2BLwTPmeFAtnUyrD0&rqlang=cn&rsv_enter=0&rsv_sug3=4&inputT=91&rsv_sug4=91"
+JavaScript error: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=test&rsv_pq=d6f5b54400002fa0&rsv_t=8b2ex3%2F8N7W66tX9M5n80mqqId2ru5rLLAUWJAnnFH2BLwTPmeFAtnUyrD0&rqlang=cn&rsv_enter=0&rsv_sug3=4&inputT=91&rsv_sug4=91, line 3464: ReferenceError: $ is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_44ab0b6.js, line 108: ReferenceError: $ is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_44ab0b6.js, line 55: ReferenceError: $ is not defined
+1516608150713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=test&rsv_pq=d6f5b54400002fa0&rsv_t=8b2ex3%2F8N7W66tX9M5n80mqqId2ru5rLLAUWJAnnFH2BLwTPmeFAtnUyrD0&rqlang=cn&rsv_enter=0&rsv_sug3=4&inputT=91&rsv_sug4=91"
+1516608150715	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=test&rsv_pq=d6f5b54400002fa0&rsv_t=8b2ex3%2F8N7W66tX9M5n80mqqId2ru5rLLAUWJAnnFH2BLwTPmeFAtnUyrD0&rqlang=cn&rsv_enter=0&rsv_sug3=4&inputT=91&rsv_sug4=91"
